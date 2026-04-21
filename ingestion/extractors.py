@@ -38,23 +38,51 @@ def dataframe_to_text(df):
 
     return "\n".join(rows)
 
-def extract_excel(file_path):
+def extract_excel(file_path, max_rows=100, max_cols=20):
     ext = os.path.splitext(file_path)[1].lower()
 
     try:
+        # -------- Select engine --------
         if ext == ".xlsx":
-            df = pd.read_excel(file_path, engine="openpyxl")
-
+            engine = "openpyxl"
         elif ext == ".xls":
-            df = pd.read_excel(file_path, engine="xlrd")
-
+            engine = "xlrd"
         elif ext == ".xlsb":
-            df = pd.read_excel(file_path, engine="pyxlsb")
-
+            engine = "pyxlsb"
         else:
             return ""
 
-        return dataframe_to_text(df)
+        # -------- Read ALL sheets safely --------
+        dfs = pd.read_excel(file_path, sheet_name=None, engine=engine)
+
+        all_text = []
+
+        for sheet_name, df in dfs.items():
+
+            if df is None or df.empty:
+                continue
+
+            # -------- LIMIT SIZE (CRITICAL) --------
+            df = df.head(max_rows)          # limit rows
+            df = df.iloc[:, :max_cols]      # limit columns
+
+            # -------- CLEAN DATA --------
+            df = df.fillna("")
+
+            cols = df.columns.tolist()
+
+            # -------- STRUCTURED TEXT --------
+            for _, row in df.iterrows():
+                row_text = ", ".join([
+                    f"{col}: {str(row[col])[:50]}"   # limit each cell size
+                    for col in cols
+                ])
+                all_text.append(row_text)
+
+        # -------- FINAL SIZE CONTROL --------
+        text = "\n".join(all_text[:500])  # max lines
+
+        return text
 
     except Exception as e:
         print(f"Excel read error ({file_path}): {e}")
@@ -84,6 +112,9 @@ def extract_text(file_path):
         elif ext == ".txt":
             with open(file_path, "r", encoding="utf-8") as f:
                 return f.read()
+        elif ext in [".doc", ".ppt"]:
+            print(f"Skipping legacy file: {file_path}")
+            return ""
 
         else:
             print(f"Unsupported file: {file_path}")
