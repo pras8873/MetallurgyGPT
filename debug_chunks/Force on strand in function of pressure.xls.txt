@@ -1,0 +1,3 @@
+
+--- CHUNK 0 ---
+Unnamed: 0: Active area proportional mode (whole piston), diameter [mm]: 320, area [mm2]: 80424.77193189871, area [m2]: 0.0804247719318987, pressure [bar]: 7, pressure [Pa]: 700000, Force hydraulic [kN]: 56.297340352329094, Force weight of roll [kN]: 35, Total force [kN]: 91.29734035232909, Factor: 1.6019564903482584 Unnamed: 0: Active area regenerative mode (only cylinder rod), diameter [mm]: 200, area [mm2]: 31415.926535897932, area [m2]: 0.031415926535897934, pressure [bar]: 7, pressure [Pa]: 700000, Force hydraulic [kN]: 21.991148575128555, Force weight of roll [kN]: 35, Total force [kN]: 56.991148575128555, Factor:

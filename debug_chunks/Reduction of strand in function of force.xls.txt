@@ -1,0 +1,3 @@
+
+--- CHUNK 0 ---
+Unnamed: 0: 0.4, Versuch 1: 60.0, Versuch 2: 60.0 Unnamed: 0: 2.0, Versuch 1: 220.0, Versuch 2: 190.0 Unnamed: 0: 2.4, Versuch 1: 280.0, Versuch 2: 280.0 Unnamed: 0: 4.0, Versuch 1: 360.0, Versuch 2: 350.0 Unnamed: 0: 4.0, Versuch 1: 380.0, Versuch 2: 380.0

@@ -22,7 +22,7 @@ def process_file(file_path, index, metadata_store):
     save_chunks_debug(chunks, os.path.basename(file_path))
 
     # -------- FILTER SAFE CHUNKS --------
-    safe_chunks = [c for c in chunks if len(c.split()) < 300]
+    safe_chunks = [c for c in chunks if len(c) < 1500]
 
     if not safe_chunks:
         print(f"All chunks too large: {file_path}")

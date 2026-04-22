@@ -1,0 +1,3 @@
+
+--- CHUNK 0 ---
+Unnamed: 0: 2020-09-25 00:00:00, force: 50, real gap: 255, raw gap: 255.71 Unnamed: 0: 2020-09-25 00:00:00, force: 100, real gap: 255, raw gap: 255.49 Unnamed: 0: 2020-09-25 00:00:00, force: 150, real gap: 255, raw gap: 255.25 Unnamed: 0: 2020-09-25 00:00:00, force: 200, real gap: 255, raw gap: 255.07

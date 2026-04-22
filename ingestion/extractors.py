@@ -74,13 +74,13 @@ def extract_excel(file_path, max_rows=100, max_cols=20):
             # -------- STRUCTURED TEXT --------
             for _, row in df.iterrows():
                 row_text = ", ".join([
-                    f"{col}: {str(row[col])[:50]}"   # limit each cell size
+                    f"{col}: {str(row[col])[:30]}"   # limit each cell size
                     for col in cols
                 ])
                 all_text.append(row_text)
 
         # -------- FINAL SIZE CONTROL --------
-        text = "\n".join(all_text[:500])  # max lines
+        text = "\n".join(all_text[:200])  # max lines
 
         return text
 

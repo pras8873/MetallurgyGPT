@@ -1,0 +1,3 @@
+
+--- CHUNK 0 ---
+Datum 0 Zeitverzögerung: 15 min Max. Ausdehnung: 2.7 mm Max. Ausdehnung: 2.0 mm
