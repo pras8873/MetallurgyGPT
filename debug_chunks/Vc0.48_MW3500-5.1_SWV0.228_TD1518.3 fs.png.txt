@@ -1,0 +1,6 @@
+
+--- CHUNK 0 ---
+Grade Id: |42CRMO4+QT T Sol: [1428.9 °c MSR Id: |-- - - T Liq: [1493.4 °c Se oe 43.0 m ~ Control Mode © No Reduction ( Thermal Model Position © Level © Thermal Model Force © Speed Tie Position Botte __IRo ise nfsurtaceTPe[eoreT'Cl_ [us Thek trusty Ther nf Sol ek toi Facto] ctl Pos (Atv Fore [cv Pressure] Speeds Pos Liege Pos (nies Fore Roll WSU2 Roll WSU3 Roll WSU4 Roll WSU5 Roll WSU6 Roll WSU7 Roll WSU8 Roll WSU9 Roll WSU10 Roll WSU11 20.106 21.340 22.575 23.809 25.059 26.309 27.509 28.709 29.909 31.109 32.309 963.5 952.7 942.7 933.2 923.7 914.2 905.0 895.5 885.7 875.5 864.9 1491.6 1490.4 1488.6 1486.0 1479.5 1455.5 1377.7 1328.4 1290.9 1258.7 1229.8 oooccococe ceca 138.5 145.1 151.8 159.1 167.3 182.8 205.0 205.0 205.0 205.0 205.0 0.072 0.123 0.192 0.285 0.493 0.922 1.000 1.000 1.000 1.000 1.000 ooocococcocec]a oooccococe ceca Section [mm] 410.00 410.00 410.00 410.00 410.00 410.00 410.00 410.00 410.00 410.00 410.00 Reduction Setup | Solid Fraction Profile 1.10 1.00 Solid Fraction at Centerline [0-1] o go 9 9 9S 9 9°89 ow + wn on ~ ao wo o o o o oO o o bed iv ta] 0.10 0.00 10 11 12
+
+--- CHUNK 1 ---
+13 14 15 16 Wweuie 31 32 33 34 35 36 37 Vv TB Speed-Tie Setup [mm] [¥ J) Model Setup [mm] 38 39 |¥ — Solid Fraction at Center 4

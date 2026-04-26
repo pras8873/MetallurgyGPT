@@ -1,0 +1,3 @@
+
+--- CHUNK 0 ---
+Steel Grade: Steel Grade Data 100CR6 T Liquidus [°C T Solidus ["C} 1453.00 2 {1330.00 <> Casting Recipe: Mould Id: Casting Mode "Wy Recipe Values Mould 610x460 Lubricant Id: Heat Correlation: Calculated by Water Powder Factor [0-1] 0.850 > Side X Down XUp Y Left Y Right Flow Rate [I/min] 960 960 700 700 Delta T [°C] Power [kW] Casting Section 610x460 Casting Speed [m/min]: T Tundish [°C] Casting Machine Data T Supetheat ["C} 0.325 a 1483.00 +] [30.00 a Air Convect. [W/m2K} 8.787 3 Secondary Cooling No. Description Flow Rate [/min] Pressure [bar] Spec. Water [I/ka] zone 1 zone 2N 16.00 3 zone SW 6.00 0.000 0.003 4 zone 3N 6.00 0.000 0.009 Total 44.00 0.000 0.065)

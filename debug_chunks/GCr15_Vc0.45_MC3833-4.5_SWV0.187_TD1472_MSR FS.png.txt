@@ -1,0 +1,6 @@
+
+--- CHUNK 0 ---
+Grade Id: [GCR15 T Sol: [1342.9 °C MSR Id: |-- -- - T Liq: (1455.7 i ot ee — Offset: 43.0 m ~ Control Mode © No Reduction ( Thermal Model Position © Level © Thermal Model Force © Speed Tie Position Rote —_[Rot otsetnfsurtaceTPefeoreT'C]_ [thes nfs Thos tf Sot Tek te Soi rac] Atl Pos (Atv Fore [cv Pressure] Spee Ti Pos Liege Pos (nose Force Roll WSU1 or 106 918.5 7 8 0 124.3 0 Roll WSU2 21.340 906.9 1435.5 0 738 1312 0.423 0 0 Roll WSU3 22.515 896.6 14247 0 662 1388 0.596 0 0 Roll WSU4 23.809 886.9 1408.9 0 563 1487 0.782 0 0 Roll WSUS 25.059 877.9 1386.2 0 434.1616 ~—:0.937 0 0 Roll WSU6 26.309 869.3. 1352.5 0 172-1878 ~——-0.99 0 0 Roll WSU7 27.509 8607 1296.0 0 0 2050 ‘1.000 0 0 Roll WSU8 28.709 ©8520 1267.3 0 0 2050 ‘1.000 0 0 Roll WSU9 29.909 8429 1225.0 0 0 2050 ‘1.000 0 0 Roll WSU10 31.109 8327 1196.3 0 0 2050 1.000 0 0 Roll WSU11 32.309 822111701 0 0 2050 —‘1.000 0 0 oooccococe ceca 410.00 410.00 410.00 410.00 410.00 410.00 410.00 410.00 410.00 410.00 410.00 Reduction Setup |
+
+--- CHUNK 1 ---
+Solid Fraction Profile 1.10 Solid Fraction at Centerline [0-1] o 9o 9° 9 ow + wn on o o o o bed iv ta] 0.10 0.00 31 32 33 34 35 36 37 Vv TB Speed-Tie Setup [mm] [¥ J) Model Setup [mm] 38 39 40 41 |¥ — Solid Fraction at Center

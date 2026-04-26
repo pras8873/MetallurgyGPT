@@ -1,0 +1,3 @@
+
+--- CHUNK 0 ---
+SMS @group Plant SHAGANG ccm: CCM4 View Axis @Fined Length © Center Offset Show Trend Temperature Mis ‘Metall. Length: 17.819 m Cast Speed: 2.80 m/min Selected Slice: Order: 0 Length: 0.000 m Offset: 0.000 m Grade: c20 Mixed: False Section: 150x150 Time’ 0.0 s (dt= 0.0) Zone: {t=0.0 s) T Center: 1544.0 °C TXMidface: 1544.0 °C TYMidface: 1544.0 °C T Comer: 1544.0 °C Sol. Thickness: 0 (x2) Lig. Thickness: 7.5 cm (x2) Solid Fraction: 0.000 Selected Point MO TSotliq — TUser P= Tomer PD -TxXup r XPosition: —0.075m Samples [¥ [ll Mixed Grade ¥Position: 0.075 Temperature: 1544.0°C 0075 |[0075 || set | Reset

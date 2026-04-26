@@ -1,0 +1,9 @@
+
+--- CHUNK 0 ---
+Casting Floor Stopper €301WKS1100 &» operator | oO SMS © group ‘Actual Ladle 2215629 Mould Stirrer Water Modules Cutters Discharge Units Maintenance Interlocks Safety Recipe | j=] Casting Heat ID ‘Steel Grade ID Net Weight [t] Net Weight (t] [ Cont Temp. [°C] | Inst. Temp. [°C] ‘S5SICr 23.14) [Actual Tundish a5 1489 1495, Next Ladie 2215629 ‘SSSICr = Tow HBIS SHISTEEL CASTER Process Overview STRAND 1 ‘Speed [mvmin] 0.48 Steel Level [%] 74.9 STRAND 2 ‘Speed [mvmin] 0.48 Steel Level [%] 74.7 STRAND 3 ‘Speed [mvmin] 0.48 Steel Level [%] 75.2 Offset [mm] Mot M02 Mo3 M04 Mo5 Mos Mo7 Mos Moo M10 M11 Raw Gap 419.7 413.8 4127 395.0 404.0 396.9 394.4 405.1 403.1 405.2 397.8 + Calibration Offset 05 47 25 51 04 33 29 54 3.6 6.1 13 + Elastic Deformation Offset 02 12 26 35 40 42 42 0.4 0.4 0.5 0.5 - Thermal Expansion Offset 13 13 13 13 13 13 12 1.2 1.2 1.2 1.2 = Used Gap 419.1 418.3 416.5 402.3 407.2 403.1 400.3 398.9 398.7 398.4 398.3 10 10 10 10 10 10 10 10 10 10 10 8 8 8 8 8 8 8 8 8 8 8 % %
+
+--- CHUNK 1 ---
+% % % % % % % % % PY PY PY PY PY PY PY PY PY PY PY 2 2 2 2 2 2 2 2 2 2 2 @ @ @ @ @ @ @ @ @ @ @ 2 2 2 2 2 2 2 2 2 2 2 . a 3 3 3 3 3 3 3 3 3 3 3 Relative Gap with 3 3 3 3 3 3 3 3 3 3 3 Th 1 Te 3 3 3 33 33 33 33 3 Quel [esr rd rd rd rd rd rd rd rd ae ae ae ae ae ae ae ae ae ae ae a a a a a a a a 20 20 20 20 20 20 20 20 2 2 2 2 2 2 2 2 a a a a a a a a a a a Se Se Se Se Se Se Se Se Se Se Se 3 3 3 3 3 3 3 3 3 3 3 Thermal Taper [mm] , oo] | o3/ , os} |, os] | os} | os} | o3] | os} | os] | os} |, o3 Bloom Thermal Taper [mm] 0.0 0.3
+
+--- CHUNK 2 ---
+06 09 1.2 15 18 24 24 27 3.0 Elastic Deformation Factor [mm/kN] | [0.00200] | |.0.00200] [0.00200] [0.00200] | |,0.00200| + |.0.00200] |,0.00200] [0.00180] [0.00180] | |,0.00180] | 0.00180 oree Maximum

@@ -1,0 +1,6 @@
+
+--- CHUNK 0 ---
+Maintenance Interlocks Safety Recipe or C301WKS1200 _» Casting Heat ID Steel Grade ID Net Weight [t] Net Weight [t] Cont. Temp. [° if 3 _ Ste i p. [°C] Inst. Temp. [°C] inl i _ Actual Ladle 2215629 SCM440H 0.00] | Actual Tundish 42 801 1200 in} GE _ Next Ladie __ 2225818 SCM440H psa) HBIS SHISTEEL S#: Mould Cooling Delta Temperature Level 2 ‘ooling Delta Temperature | Me o> QQ QQ i DH Sw) So wa, 8.0= 3.0- 3.0 == 0.0 = 2S See: = = 3 11:45:00 21:50:00 21:55:00 22:00:00 22:05:00 22:10:00 22:15:00 22:20:00 22:25:00 ——_22:30:0 22:35:00 | 22:40:00 22:45:00 22:50:00 22:55:00 23:00:00 ~——-23:05:0 ~— *10.2022° 25.10.2022 25.10.2022 _ 25.10.2022 25.10.2022 25.10.2022 25.10.2022 25.10.2022 25.10.2022 25.10.2022 25.10.2022 25.10.2022 25.10.2022 25.10.2022 25.10.2022 25109022 2S 1b e0 < > Description Actual i Ruler Value Ruler Time 1| S$1/HMI_REP.C511_DT_SR_MsrV $1: C511: Mould Cooling Delta Water Temperature | | 2 | $2/HMI_REP.C511_DT SR_Msrv | $2: C511: Mould Cooling Delta Water Temperature J ( 4.22 25.10.2022 22:38:08 j 3.91 fi.] 25.10.2022 22:38:08 'fi.] | . . li | 0 3 | S3/HMI_REP.C511_DT_SR_Msrv $3: C511: Mould Cooling Delta Water Temperature | i 461 25.10.2022 22:38:07 25.10.2022 22:38:08 [i] 25.10.2022 22:38:08 [i] 25.10.2022 22:38:08 [i]
+
+--- CHUNK 1 ---
+25.10.2022 22:38:08 fi.) |

@@ -1,0 +1,3 @@
+
+--- CHUNK 0 ---
+FileNo = S 3101 401 ProjectName = Zhongtian Shape = Rectangular Format = 160x160 mm 500 Radius = 10m Vsteel = 2m/min Total SWV = Ol/kg Water Spray Density vc_MIN 450 400 350 300 250 200 Water Density [I/min/m2] ——— SprayWaterDensityFS 6 8 10 Length from Meniscus [m] —— SprayWaterDensityLS —— SprayWaterDensityNS 12

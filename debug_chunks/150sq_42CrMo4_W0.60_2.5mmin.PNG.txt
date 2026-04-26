@@ -1,0 +1,3 @@
+
+--- CHUNK 0 ---
+1600 1550 1500 1450 1400 1350 1300 1250 P1200 § 1150 ® 1100 2 1050 so00 ° I [hl Mixed Grade View Axis @FikedLenath © Center Offset Show Trend Temperature vie Metall. Length: 16.692m Cast Speed: 2.50 m/min Selected Slice: Order: 0 Length: 0.000 m Offset 0.000 m Grade: 42CRMO4 Mixed: False Section: 150x150 Time’ 0.0 s (dt = 0.0) Zone {t=0.0s) T Center. 1520.0 °C TX-Midface: 1520.0°C TY-Midface: — 1520.0°C TComer. —1520.0°C Sol. Thickness: 0 (x2) Lig. Thickness: 7.5 cm (x2) Solid Fraction: 0.000 Selected Point X-Position: 0.075m Position: 0.075. Temperature: 1520.0 °C 0075 |[0075 || set | Reset os f 042 040 0.08 0.08 0.04 0.02 0.00

@@ -1,3 +1,9 @@
+import pytesseract
+from PIL import Image
+
+# -------- SET TESSERACT PATH --------
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+
 import fitz
 def detect_file_type(file_path):
     ext = os.path.splitext(file_path)[1].lower()
@@ -16,11 +22,16 @@ def extract_pdf_text(file):
 
 def extract_pdf_ocr(file):
     from pdf2image import convert_from_path
-    images = convert_from_path(file)
+    images = convert_from_path(
+        file,
+        poppler_path=r"C:\poppler\Library\bin"  # <-- ADD THIS
+    )
     text = ""
     for img in images:
         text += pytesseract.image_to_string(img)
     return text
+
+
 
 import os
 from bs4 import BeautifulSoup

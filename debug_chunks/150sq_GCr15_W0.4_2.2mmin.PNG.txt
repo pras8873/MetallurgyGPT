@@ -1,0 +1,3 @@
+
+--- CHUNK 0 ---
+View Axis “ry @ Fixed Length Show Trend 1550 Temperature: 1500 Metall, Length: Cast. Speed: 1450 Selected Slice: 1400 Order: Length: feel Offset Grade’ Mixed: 1300 Section: Time: 1250 Zone: T Center. 1200 T X-Midface: > TY-Midface: 21150 T Comer: s Sol. Thickness: = 4100 Lig. Thickness: 2 Solid Fraction: © 1050 Selected Point: 4000 X-Position ¥-Position: eH Temperature: 900 850 800 750 700 650 0 1 2 3 4 5 6 7 8 9 10 “1 12 13 14 15 16 7 18 19 20 2 2 23 24 25 28 Pa 28 23 30 [- — TCorner = TY-Right ‘Samples Mixed Grade ors |{0.075 O Center Offset 16.529 m 2.20 mimin 0 0.000 m 0.000 m 100CR6 False 150x150 0.0 s (dt= 0.0) (t=0.0s) 1478.0°C 1478.0 °C 1478.0°C 1478.0 °C 0 (x2) 7.5 cm (x2) 0.000 0.075m 0.075m 1478.0 °C Set Reset

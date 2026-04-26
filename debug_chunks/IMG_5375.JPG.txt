@@ -1,0 +1,6 @@
+
+--- CHUNK 0 ---
+Casting Floor Stopper Mould Stirrer Water Modules Cutters Discharge Units Maintenance Interlocks Safety Recipe CASTER Process Overview STRAND 1 Speed [m/min] 0.48 Steel Level [%] 74.9 STRAND 2 Speed [m/min] Water Supply to Scale Pit | Steel Level [2%] 974.9 "STRAND 3 Casting Heat ID Steel Grade ID Net Weight [f Net Weight [t] Cont. Temp. [°C] Inst. Temp. [°C] Actual Ladle 2215629 S5SiCr 12h Actual Tundish 41.4 1486 1491 Next Ladle 2215629 SSSICr Water Cooling Common Equipment Strand 2 Strand i ie Equipment 1 I 061 — «52|% 2.94 |m3/h Level 2 Ready to Cast Onn HBS Ean b is HBIS SHISTEEL ‘ Zone 1 SEGMENT 1 Zone 2 - Air Zone 2W Zone 2N Zone 3 - Air Zone 3W Zone 3N Zone 4 - Air Zone 4 Zone 5 Zone 5 - Air ————E SEGMENT 2 FOOTROLLS | Speed [m/min] 0.48 Steel Level [%] 75.0 CASTING All Auto Close iS Open P Semiauto | Semiauto Setpoint . 2.88 [m3/h] = Spray Cooling Zone 1 ——____fy — Manual Setpoint 52 | [%] ~ Spray Cooling Zone 2 Wide ——_JJ— l Close al | Semiauto Semiauto Setpoint & Open Manual Setpoint Spray Cooling Zone 2 Narrow ——f§— Close i
+
+--- CHUNK 1 ---
+—————___—_—_ Semiauto Semiauto Setpoint Open Manual 1.01 Manual Setpoint 48 are iain, Auto Setpoint Manual Setpoint > Spray Cooling Air Mist Main Valve Plan Strand C301WKS1100 SR Arm 6 Force Maximum Strand 1 Strand 2 Strand 3 G-€ Z Aeids

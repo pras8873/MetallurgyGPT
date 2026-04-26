@@ -1,0 +1,6 @@
+
+--- CHUNK 0 ---
+Casting Floor Stopper Mould Stirrer Water Modules Cutters Discharge Units Maintenance nteriocks Safety Recipe | @__cao1wxst100 1<f operator |o- Casting Heat ID SteelGradeID_| Net Weight [f] Net Weight [f] | Cont. Temp. FC]_| inst. Temp. [°C] = "1 SMS © group ‘Actual Ladle 2215629 ‘S8SiCr 20.20| | Actual Tundish a3 1488, 1495, iMeN5 ih Next Ladie 2215629 ‘SSSICr = HEI mS Water Supply FOOTROLLS CASTER Zone 1 Process Overview ‘SEGMENT 1 to Scale Pit Zone 2 - Air STRAND 1 al Zone 2W Zone 2N Speed [mvmin] 0.48 eA | N Zone 3 - Air Zone 3W Steel Level [%] ar bs & Boone aN 75.1 R ° ‘SEGMENT 2 Zone 4 STRAND 2 71|%> Speed [mvmin] 0.48 Zone 5 Zone 5 -Air Steel Level [%] ——_ Sa 0.35|> Tako) Pa STRAND 3 makra Speed [mvmin] 0.48 Inlet Cooling Valve —______{J Spray Cooling Zone 1 —__{J > Spray Cooling Zone 2 Wide —__{J > Spray Cooling Zone 2 Narrow ——_{J— ‘Spray Cooling Air Mist Main Valve steitevel ro |] 3|| (EE vanuai [close Open [close Open | close Open 8 Ao el Ao el Ao el [| Z a g = ‘Semiauto ‘Semiauto ‘Semiauto = Ed All Auto By ‘Semiauto
+
+--- CHUNK 1 ---
+Setpoint 2.88] [main] ‘Semiauto Setpoint 1.12] [mam] ‘Semiauto Setpoint 1.01 | [main] Auto Setpoint 0.35 |Mpa 2 a Manual Setpoint 45 | [%] Manual Setpoint 62] [%] Manual Setpoint 53 | [%] Manual Setpoint 72 |[%1 3 @ ° ion Fault

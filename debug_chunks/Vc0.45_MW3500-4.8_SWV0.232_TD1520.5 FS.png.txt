@@ -1,0 +1,9 @@
+
+--- CHUNK 0 ---
+4 CCM Cooling Simulator - [COOL Soft Reduction Data - Strand 1] _ x %& Session Plant Catalogs CCM COOL Tools Windows - & x SMS @ group Plant’ CONCAST CCM: CCM1 | | otto _—_|Pot oven surtaceTPefeore 11 Tek easy Tek feo Tek I Soh Fracton|ActelPos. Actua Free [Actus Pressure [Speed Te Ps, ose Pos. node Force 20.106 941.2 14923 0 55.6 149.4 0.140 0 0 0 0 410.00 Grade Id: [42CRMO4+QT __‘T Sol: [1434.0°C °C Roll WSU2 21.340 9292 1489.9 0 48.2 156.8 0.234 F 0 0 ; 0 0 410.00 Roll WSU3 22.575 918.3 1486.1 0 40.4 164.6 0.373 0 0 0 0 0 0 410.00 MSR Id: |- ~ — “| T Lig: [1495.6 c Roll WSU4 23.809 9079 14729 0 28.3 176.7 0.729 0 0 0 0 0 0 410.00 Starting Se Ending aun Roll WSU5 25.059 8976 13994 0 0 205.0 1.000 0 0 0 0 0 0 410.00 Offset: | 2 ™ | Ofteer L422 | I Roll wus 26.309 887.0 13364 0 0 205.0 1.000 0 0 0 0 0 0 410.00 Roll WSU7 27.509 8764 12944 0 0 205.0 1.000 0 0 0 0 0 0 410.00 - Control Mode Roll
+
+--- CHUNK 1 ---
+WSU8 28.709 8654 1259.0 0 0 205.0 1.000 0 0 0 0 0 0 410.00 © No Reduction Thermal Model Position | |Rol| \WSU9 29.909 853.9 1227.6 0 0 205.0 1.000 0 0 0 0 0 0 410.00 C Level 1 C Thermal Model Force _| {Roll WSU10 31.109 8423 1198.9 0 0 205.0 1.000 0 0 0 0 0 0 410.00 C: Speod Tle Position Roll WSU11 32.309 8306 11723 0 0 205.0 1.000 0 0 0 0 0 0 410.00 Reduction Setup Solid Fraction Profile 0.225 0.205 0.185 0.165 0.145 8 — a £0125 am £ 8 & 0.105 = > 2 0.085 3 0.065 0.045 0.025 0.005 0 1 2 3 4 5 6 7 8 9 10 «O11 12 13 14 #15 #16 #17 «1806190620061 220 23 24 25 26 2F 28 29 30 4 3206332 Me HK KOC 42 Cast Length [m] lV = sf=00 JV = sf=04 IV = sf=02 JV = sf=03 lV = st=04 JV = sf=05 JV = sf=06 |¥V = sf=07 JV = sf=08 JV = sf=09 IV = sf=1.0 I¥ = sf=Custom [V = sf at Center Ca Custom solid fraction: | 0.50 Gil 26-Oct-22 7:18:48 PM | Shigang
+
+--- CHUNK 2 ---
+CCM3 - CONCAST- CONCAST Fai (Shim! |

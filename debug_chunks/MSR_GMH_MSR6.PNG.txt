@@ -1,0 +1,3 @@
+
+--- CHUNK 0 ---
+FileNo:S.0206.402 ProjectName:GMH revamp SectionName:245sq Speed:0.90 mimin Quality100Cr6 Selection:Calct Roll WSU29 Stress EquiviPa] 3.00E+007 2.84E+007 2.68E+007 __253E+007 |_237E+007 | 2.216+007 |_2.08E+007 |_1.896+007 | 1.746+007 | 1.s86+007 | 1.42E+007 / 4.268+007 HATE we HEHE} Ht EAE 9.47E+008 7.996+008 6.326+008 4.746408 3.406+008 1 .586+008 0.00E+000 Depth=13.00mm Steel S_MSR

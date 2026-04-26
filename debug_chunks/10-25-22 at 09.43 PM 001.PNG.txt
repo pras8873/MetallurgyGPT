@@ -1,0 +1,6 @@
+
+--- CHUNK 0 ---
+Casting Floor Stopper Mould Stirrer. Water Modules Cutters Discharge Units Maintenance Interlocks Safety Recipe | j=] ©301WKS1100 1<f operator |o- Casting Heat ID Steel GradeID | Net Weight [i] Net Weight [i] | Cont Temp. [°C] | inst Temp. [°C] 5 5 SMS © group Actual Ladle 2215629 ‘S8siCr 141.89] | Actual Tundish 376 1483, 1495 iMeN5 #M Next Ladle 72215629 SESICr = met vest CASTER Steel Viscosity Process Overview High 3 Medium ec STRAND 1 S 9 Speed [m/min] s Parameters step1 | step2 | steps | ster4 | steps | FINAL Steel Level (4 Stopper Position [mm] 13.0 8.0 6.0 7.0 8.0 74.9 ED h h h h h vistseity _OPening Time [s} [tol sof 200| 200, 200 Closing Time [s] [ool oof oof oof 00 STRAND 2 wim | ESSE |) ee) > Opening Time [s] vol sof 200| 200, 200 3 ‘Speed [m/min] VEmsiy ft 2 0.48 Closing Time [s] [ool oof oof oof 00 3 \ 2 ‘Stopper Position [mm] |) ee) = a Steel Level [%] veo ‘Opening Time [5] vol sof 200| 200, 200 = ity & 5 15.0 Closing Time [s] {ool oof ool oof 00 S ‘Stopper Final Position [mm] 9.0
+
+--- CHUNK 1 ---
+STRAND 3 ‘Speed [mimin] 0.48 9 Steel Level [%] HW 75.0 a Discharge

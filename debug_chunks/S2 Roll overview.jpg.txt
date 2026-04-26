@@ -1,0 +1,6 @@
+
+--- CHUNK 0 ---
+Ready fo Cast Strand 2 CASTING LENGTH | || HOT STRAND Length [mm] 62849, Act aa Tail [mm] 80 0.42 [MPa] <j 2i2 2.26 moi A) Head {mm] 62029 Tot Cut: [#4 4 DUMMY BAR 0.51 [MPa] < 4.01 (m2n)\ A) ‘Head [mm] 42004 0.60 [MPa] <@) h 1). 1,01 {many (AAI Tail. {mea} 72200 0.71 [MPa] <@ 4.02 [m3/nj RA 0.73 [MPa] <4) re 07, 1.01 m3) A) ane ne i} 0.43 [MPa] <Q) 1.06 {ma/ny : Motor. | i 0.36 (MPa & 1.04 [m3my a} \ Counter. Speed imvanun.[__ Current Act.) "Act Ref Dev DB _ Head” Tair |" Rer==rAct peessfA) 99.2| 420.7| 4207 0.0 #1 O!O"@8 0.48 0.48 73 28.0 7738| 4188) 0.0 O48 0:67} AB. 48.5 048 0.47) 49.5 4a 053 oat] eee 0.47 0.48 0.46 0.48 0.48 0.48 0.47 Force [KN] #2).©).| 1048.6) 416.7| #3) O 150014)" 413.5 1711.4| 408.8 5 5R Torque [%] 2000.8| 404.2 1999.3| 399.3 99.6, . 1 ry 780 [kN] 2771.8| 393.4) 394,7 4 , 1049 [kN] 2194.1 2194.2 389.1 _ é ] 1500 [kN 2500 251.7! 387.3) 387.3 F a 7 | 1741 [kN] 249.8/ 387.9) 4 ‘4 = 7 6 Jy 2001 [kN} ) d 1989 [KN] A 2772
+
+--- CHUNK 1 ---
+{kN} 2194 [KN] 252 [kN] 260) [kN) Force 99 [kN] l@909000600000 #9 #10 #1 2022.11.48 13:51 Strand 1 Strand 2 SHOT'ON MISI10'SG

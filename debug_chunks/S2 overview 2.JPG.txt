@@ -1,0 +1,6 @@
+
+--- CHUNK 0 ---
+| | __ca01SeR10008 |G SMSGroup “Net Weight (t]_ [Conti Temp. [°c] [Inst Temp. [C_| now 1401 1486 HBIS SHISTEEL Stopper) Mould Stirrer Water Modules Cuttlers Discharge Units Maintenance _Interiocks Safety Recipe Net Weight (1) re c al fra al Tundish € Actual Ladie Next Ladie 63 5 ReadytoCast CASTING LENGTH HOT STRAND Length [mm] 133437 mm) 0.40 [MPa] 1 aaa DUMMY BAR 0.54 [MPa] @ 1.03 (mam) 4) Head [mm] 0.65 [MPa] J \ 1.05 (mam) 4) ail [mm 0.76 [MPa] 1.04 (main) 4) 0.77 [MPa] @ b 1.04 [m3/n) Tot Cut P. [#] Motor ~ | Gap MSR Rolls i Force (kN] «| tram |. ‘Gap (imi za| 0.41 (MPal ) 1,02 mam) A = 2% 3 . , 3am) pee = Torque 0.35 [MPa] 0.98 (ma/n] (4) peed [m/min] Current DB_ He Ref Act (Al mm] [Nm] [99] C) 045) 6.9 265 1 220 0.44] 11.7 449 48 95.2 8607| 418.3| 4 8 ) 1166.0) 416.1 .0| F-EMS of aw g ( 044) 11.7 45.1 49° (97.5 < | 98.8) 420.0 045} 114 438 47 940 0.43| 120 46.2 50 100.1 048) 11.9 458 50 «99.6 04s} 11.8 455 5099.0 0.45| 28.1 19924 045} 26.2 85.1 ) 045}
+
+--- CHUNK 1 ---
+128 78 BUA! og 50.45] 129 : 12 1996 [kN] r= | 2004 [kN] 1396.4 413.8 i 9641 PYROMETER 921.3 )[°C) 1926.9 409.1) R | Torque [' 1995.6) 405.2 $ 1 99 [kN] 2004.0 401.7 =) 861 [kN] 2776.2 396.3 195 #3 1166 [kN] | 2791.0} 390.8 | 32. = 1396 [kN] 248.2| 387.9 265.7| 388.0 2776 [kN] 2791 [KkN} 248 [kN] 266 [kN] Plant Strand Discharge Strand 3 C301SER1000B

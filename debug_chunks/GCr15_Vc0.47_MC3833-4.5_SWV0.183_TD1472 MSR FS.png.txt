@@ -1,0 +1,6 @@
+
+--- CHUNK 0 ---
+SMS @ group Plant CONCAST CCM: CCM1 Roll WSUt Tr 106 927.2 errr 8 0 85.9 119. a = — na —s 0 410.00 Grade Id: lccRts T Sol: [i3a29°C Roll WSU2 21.340 9160 14418 0 79.8 125.2 0.306 F 0 0 ; 0 0 410.00 Roll WSU3 22.575 906.1 1434.4 0 73.0 132.0 0.442 0 0 0 0 0 0 410.00 MSR Id: |- ~ — “| T Lig: [1455.7 “C Roll WSU4 23.809 8967 1423.8 0 65.6 139.4 0.609 0 0 0 0 0 0 410.00 Starting Litim _] Ending Lam] Roll WSU5 25.059 887.5 14083 0 55.9 149.1 0.789 0 0 0 0 0 0 410.00 Offset: | 2 ™ | Ofteer L422 | I Roll wus 26.309 878.9 13864 0 43.5 1615 0.936 0 0 0 0 0 0 410.00 Roll WSU7 27.509 870.8 13563 0 20.6 184.4 0.998 0 0 0 0 0 0 410.00 - Control Mode Roll WSU8 28.709 8627 13018 0 0 205.0 1.000 0 0 0 0 0 0 410.00 © No Reduction Thermal Model Position | |Rol| \WSU9 29.909 854.5 1263.2 0 0 205.0 1.000 0 0 0 0 0 0 410.00 C Level 4 C Thermal Model Force __
+
+--- CHUNK 1 ---
+|Roll WSU10 31.109 8459 12314 0 0 205.0 1.000 0 0 0 0 0 0 410.00 Ci Speed Tle Potion Roll WSU11 32.309 836.3 1203.1 0 0 205.0 1.000 0 0 0 0 0 0 410.00 Reduction Setup | Solid Fraction Profile 1.10 1.00 oS fo SF fF FP FF 8 o bB oh DD yw D&D w& o 6 6 G6 86 6 G6 Solid Fraction at Centerline [0-1] bed iv ta] 0.10 0.00 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 4 42 Vv TB Speed-Tie Setup [mm] [¥ J) Model Setup [mm] |¥ — Solid Fraction at Center

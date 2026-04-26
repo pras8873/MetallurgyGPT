@@ -1,0 +1,6 @@
+
+--- CHUNK 0 ---
+4 CCM Cooling Simulator - [COOL Input Data - Strand 1] - & Session Plant Catalogs CCM COOL Tools Windows - & x SMS @ group Plant CONCAST CCM: CCM1 Steel Grade Data Mould Steel Grade: Mould Id: Heat Correlation: 42CRMO-S ~| & | 530x410 ” Calculated by Water v T Liquidus [°C]: Lubricant Id: Powder Factor [0-1]: 1495.52 = ciel oo 0.850 = T Solidus [°C]: 1433.95 = Side Flow Rate [l/min] Delta T [°C] Power [kW] Casting Mode: x Down | 989) 4.8) 331.3 ot XUp | 989 48, 331.3 v Y Left | 761, 48, 254.7 Casting Recive: ‘Y Right 761 48 254.7 ————— ee Casting Machine Data Secondary Cooling Casting Section No. Description Flow Rate [l/min] Pressure [bar] Spec. Water [I/kg] 530x410 y Gc | it} Zonel 52.00 0.000 0.071 . . 1 zone2w'S 19.00 0.000 0.026 Casting Speed [m/min} 2 zone2NS 17.00 0.000 0.023 0.450 = 3 zonesw'S 16.80 0.000 0.023 T Tundish [°C 4 zone3N$ 16.80 0.000 0.023 = 5 zone4 24.75 0.000 0.034 1520.52 = T Superheat [°C]: 25.00 = Air Convect. [W/m2K]: 9.041 = Solved Strand in 5.375 s. OF Load Ee Save @ Reset Fin ee a ———————————— Se ee ee
+
+--- CHUNK 1 ---
+ae ae Ff r
