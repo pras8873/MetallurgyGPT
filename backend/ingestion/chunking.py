@@ -8,7 +8,7 @@ def chunk_text(text, max_words=200):
     print("Chunk size:", [len(c.split()) for c in chunks])
     return chunks
 
-from ingestion.embedding import embed_chunks
+from backend.ingestion.embedding import embed_chunks
 def safe_embed(chunks):
     valid_chunks = []
 

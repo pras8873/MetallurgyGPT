@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MetallurgyGPT</title>
+
+    <style>
+    body {
+        background: #f1f5f9;
+        color: #0f172a;
+        font-family: 'Segoe UI', Arial;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+    }
+
+    h1 {
+        text-align: center;
+        padding: 12px;
+        margin: 0;
+        background: white;
+        border-bottom: 1px solid #e2e8f0;
+    }
+
+    /* Chat */
+    #chat {
+        flex: 1;
+        overflow-y: auto;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    /* Messages */
+    .message {
+        padding: 12px 14px;
+        border-radius: 12px;
+        max-width: 80%;
+        line-height: 1.5;
+    }
+
+    /* User */
+    .user {
+        background: #2563eb;
+        color: white;
+        align-self: flex-end;
+        max-width: 45%;
+    }
+
+    /* Bot */
+    .bot {
+        background: white;
+        border: 1px solid #e2e8f0;
+        align-self: flex-start;
+    }
+
+    /* Input */
+    #inputBox {
+        display: flex;
+        padding: 12px;
+        background: white;
+        border-top: 1px solid #e2e8f0;
+    }
+
+    /* Input field */
+    input {
+        flex: 1;
+        padding: 12px;
+        border-radius: 10px;
+        border: 1px solid #cbd5f5;
+        outline: none;
+    }
+
+    /* Buttons */
+    button {
+        margin-left: 10px;
+        padding: 10px 14px;
+        background: #2563eb;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        opacity: 0.9;
+    }
+
+    button:last-child {
+        background: #ef4444;
+    }
+
+    /* Footer */
+    #footer {
+        text-align: center;
+        padding: 8px;
+        font-size: 12px;
+        background: #f8fafc;
+        border-top: 1px solid #e2e8f0;
+        color: #64748b;
+    }
+
+    /* Mobile */
+    @media (max-width: 600px) {
+        .message {
+            max-width: 85%;
+        }
+
+        .user {
+            max-width: 70%;
+        }
+    }
+    </style>
+</head>
+
+<body>
+
+<h1>MetallurgyGPT</h1>
+
+<div id="chat"></div>
+
+<div id="inputBox">
+    <input id="query" placeholder="Ask about metallurgy..." />
+    <button onclick="ask()">Send</button>
+    <button onclick="clearChat()" style="background:#ef4444;">Clear</button>
+</div>
+
+<!-- ✅ moved JS to separate file -->
+<script src="script.js"></script>
+
+</body>
+<div id="footer">
+    © Developed by Prashant Priyadarshi
+</div>
+</html>

@@ -1,9 +1,9 @@
 import hashlib
 import json
 import os
-from ingestion.extractors import extract_text
-from ingestion.chunking import chunk_text
-from ingestion.embedding import embed_chunks
+from backend.ingestion.extractors import extract_text
+from backend.ingestion.chunking import chunk_text
+from backend.ingestion.embedding import embed_chunks
 import numpy as np
 
 def process_file(file_path, index, metadata_store):
