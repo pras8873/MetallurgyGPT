@@ -4,6 +4,7 @@ import pytesseract
 print(pytesseract.image_to_string("test.png"))
 if __name__ == "__main__":
     index, metadata = init_faiss()
-    process_folder(r"F:\from official laptop\R&D\papers\LITERATURE", index, metadata)
+    #process_folder(r"F:\from official laptop\R&D\papers\LITERATURE", index, metadata)
+    process_folder(r"F:\from official laptop\R&D\papers\ragtest", index, metadata)
     save_faiss(index, metadata)
     print("Ingestion complete!")
